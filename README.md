@@ -260,7 +260,7 @@ This project is open source and available under the MIT License.
 
 ## 📞 Support
 
-For support, email support@goexplorequests.com or open an issue in the repository.
+For support, email zakariaelqannaadv@gmail.com or open an issue in the repository.
 
 ---
 
